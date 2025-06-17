@@ -44,6 +44,15 @@ export function WorkStation() {
               <MdOutlineOpenInNew />
             </a>
           </button>
+          <button
+            onClick={() => handleTabClick(4)}
+            className={activeTab === 4 ? "active" : ""}
+          >
+            three.js
+            <a target="_blank" href="https://isladjan.com/">
+              <MdOutlineOpenInNew />
+          </a>
+          </button>
         </div>
         <iframe title={`project ${activeTab}`} src={getIframeSource()} />
       </Html>
@@ -74,6 +83,8 @@ export function WorkStation() {
         return "https://seantai.dev/";
       case 3:
         return "https://jane-moroz-dev.netlify.app/";
+      case 4:
+        return "https://isladjan.com/";  
       default:
         return "https://danneytrieu.design/";
     }

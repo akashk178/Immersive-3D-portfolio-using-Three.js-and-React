@@ -2,7 +2,7 @@
 const teamData = [
   {
     name: "Akash K",
-    image: "/images/akash logo1.jpeg",
+    image: "/images/Akash logo2.jpeg",
     links: [
       { title: "linkedin", link: "https://www.linkedin.com/in/akash-kusha" },
       { title: "github", link: "https://github.com/akashk178" },
@@ -12,7 +12,7 @@ const teamData = [
   },
   {
     name: "Bharath Gowda B",
-    image: "/images/zx1.png",
+    image: "/images/Bharath logo1.jpeg",
     links: [
       { title: "linkedin", link: "https://www.linkedin.com/in/bharath-gowda654" },
       { title: "github", link: "https://www.linkedin.com/in/bharath-gowda654" },
@@ -35,7 +35,7 @@ const teamData = [
   },
   {
     name: "Shreyas N M",
-    image: "/images/zx2.PNG",
+    image: "/images/Shreyas logo1.jpeg",
     links: [
       {
         title: "linkedin",
@@ -48,7 +48,7 @@ const teamData = [
   },
   {
     name: "Venugopal S",
-    image: "/images/zx3.PNG",
+    image: "/images/Venu logo1.jpeg",
     links: [
       {
         title: "linkedin",

@@ -8,9 +8,13 @@ const sectionsContentData = [
     title: "About us",
     content: (
       <p>
-        Welcome to our 3D portfolio, created by techoverflows. This experience helped us boost our confidence and develop our
-        soft and technical skills, gearing us up for future challenges. Check it
-        out and witness the amazing outcome of our teamwork! 📱✨🎉
+        This project, titled "Immersive 3D Portfolio with VR-Styled Design Using Three.js and React," 
+        showcases an interactive and visually engaging web portfolio that allows users to explore 
+        content in a 3D environment. It mimics a real-world workspace with a laptop setup,
+        animated interactions, and embedded websites, creating an immersive experience. 
+        By using modern web technologies like Three.js, React, and Theatre.js, the project
+        aims to push the boundaries of traditional portfolio designs and present information 
+        in a more engaging and futuristic way.
       </p>
     ),
   },
