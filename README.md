@@ -14,4 +14,5 @@
    This awesome 3D portfolio is built with React and Three.js.
 </div>
 <br/>
-<div align="center"><img src="C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2025-07-28 125032.png" width="800"></img></div>
+<div align="center"><img src="<img width="1686" height="860" alt="Screenshot 2025-07-28 125032" src="https://github.com/user-attachments/assets/3acd4240-3a0f-4ad6-b2b7-342fc699ff90" />
+" width="800"></img></div>
