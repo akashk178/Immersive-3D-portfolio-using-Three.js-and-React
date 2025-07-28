@@ -41,7 +41,6 @@ open new terminal
 npm install
 npm run dev
 ```
-</br>
 ## 😘 Credits
 
 - Monitor by Poly by Google [CC-BY] via Poly Pizza
@@ -53,3 +52,24 @@ npm run dev
 - Characters and some props by [Synty Studios](https://www.syntystudios.com)
 - Cricket sound: https://www.youtube.com/watch?v=eKmRkS1os7k
 - Fire sound: https://www.youtube.com/watch?v=3DD4pgL5bS4
+
+## 📚 Project Structure
+
+Inside of the project, you'll see the following folders and files:
+
+```
+/
+├── public/
+│   └── LUTs/
+│   └── audio/
+│   └── fonts/
+│   └── ...
+├── src/
+│   ├── animation/
+│   ├── components/
+│   ├── App.jsx
+│   ├── Experience.jsx
+│   ├── index.jsx
+│   ├── style.css
+└── package.json
+```
