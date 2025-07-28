@@ -5,7 +5,7 @@
       Live
     </a>
     <span> | </span>
-    <a href="https://github.com/chingu-voyages/v43-tier3-team-29">
+    <a href="https://github.com/akashk178/Immersive-3D-portfolio-using-Three.js-and-React">
       Repository
     </a>
   </h3>
